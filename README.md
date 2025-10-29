@@ -17,7 +17,7 @@ It pings multiple endpoints and visualizes latency trends directly in your termi
 - Fast & zero-bloat (no heavy libs)
 - Works on Linux, WSL, and Termux
 
-  *_Its a Normal python Project I made it for Learning ✨_*
+  **_Its a Normal python Project I made it for Learning ✨_**
 
 
 ***📸 Preview***
