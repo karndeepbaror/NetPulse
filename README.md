@@ -1,5 +1,6 @@
 
 ***⚡ NetPulse - Live Network Monitor***
+![InShot_20251029_090652720](https://github.com/user-attachments/assets/7cbe5cfd-d4af-40fb-8df3-562ede3ca837)
 
 NetPulse is a *lightweight*, *terminal-based* real-time network monitoring tool written in Python.  
 It pings multiple endpoints and visualizes latency trends directly in your terminal — fast, minimal, and effective.
