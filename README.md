@@ -25,7 +25,6 @@ Host:Port        Ping (ms)       Trend
 google.com:80    84.7 ms         ▂▁▃█▁▅▁▃█
 ```
 
----
 
 ***🚀 Getting Started***
 
@@ -46,8 +45,17 @@ pip install -r requirements.txt
 - You can modify target hosts/ports directly inside the script.
 - Tune `update_interval` or `probe_size` for faster/slower analysis.
 
----
 
 ***👤 Author***
 
 *Karndeep Baror*
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/karndeepbaror)
+
+
+***⚠️ Disclaimer***
+
+This tool is for *educational and personal network diagnostic* use only.  
+Using it against unauthorized servers may be illegal.
+
+
+***_⭐ Star the repo if you like it!_***
